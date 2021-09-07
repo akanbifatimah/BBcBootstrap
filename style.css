@@ -18,7 +18,7 @@
     margin-top: 10px;
 }
 #background1{
-    background: url('./image/_120408824_kermani.jpg') no-repeat;
+    background-image: url('./image/_120408824_kermani.jpg') no-repeat;
     height: 400px;
     background-position: center;
     background-size: cover;
@@ -68,7 +68,7 @@ a:hover{
     color: white;
 }
 #background2{
-    background: url('./image/_120408656_doumb.jpg') no-repeat;
+    background-image: url('./image/_120408656_doumb.jpg') no-repeat;
     height: 200px;
     background-position: center;
     background-size: cover;
@@ -78,7 +78,7 @@ a:hover{
     text-align: start;
 }
 #background3{
-    background: url('./image/_120407394_hi070265786.jpg') no-repeat;
+    background-image: url('./image/_120407394_hi070265786.jpg') no-repeat;
     height: 200px;
     background-position: center;
     background-size: cover;
@@ -88,7 +88,7 @@ a:hover{
     text-align: start;
 }
 #background4{
-    background: url('./image/_120407500_index.png') no-repeat;
+    background-image: url('./image/_120407500_index.png') no-repeat;
     height: 200px;
     background-position: center;
     background-size: cover;
@@ -98,7 +98,7 @@ a:hover{
     text-align: start;
 }
 #background5{
-    background: url('./image/_120408168_hi070321501.jpg') no-repeat;
+    background-image: url('./image/_120408168_hi070321501.jpg') no-repeat;
     height: 200px;
     background-position: center;
     background-size: cover;
