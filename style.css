@@ -1,0 +1,185 @@
+
+.navbar-brand img{
+    margin-top: 8px;
+    
+}
+#first-container{
+    margin-top: 10px;
+    color: #0e0e0e;
+    font-size: 1.5rem;
+}
+#bold{
+    font-weight: bolder;
+}
+#light{
+    font-weight: lighter;
+}
+#second-container{
+    margin-top: 10px;
+}
+#background1{
+    background: url('./image/_120408824_kermani.jpg') no-repeat;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+    text-align: start;
+}
+.backgound-content1{
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+    left: 10;
+    color: whitesmoke;
+  
+}
+.link a {
+    text-decoration: none;
+    text-transform:uppercase;
+    font-size: 1.3rem;
+    color:whitesmoke;
+}
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+a:hover{
+    color: rgba(255, 255, 255, 0.726);
+}
+/* #link a:hover{
+    color: white;
+} */
+.link a::before{
+    height: .65625rem;
+    border-left-width: .13125rem;
+    content: " ";
+    display: inline-block;
+    margin-right: .5rem;
+    border-left: 2px solid #47a1d8;
+    height: 0.75rem;
+    padding: 0;
+    width: 0;
+    border-color: #e91802
+}
+.link a:hover{
+    text-decoration: underline;
+    color: white;
+}
+#background2{
+    background: url('./image/_120408656_doumb.jpg') no-repeat;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+    text-align: start;
+}
+#background3{
+    background: url('./image/_120407394_hi070265786.jpg') no-repeat;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+    text-align: start;
+}
+#background4{
+    background: url('./image/_120407500_index.png') no-repeat;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+    text-align: start;
+}
+#background5{
+    background: url('./image/_120408168_hi070321501.jpg') no-repeat;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+    text-align: start;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+#background2,#background3
+#background4
+#background5
+.backgound-content1{
+    font-size: 15px; 
+    justify-content: center;  
+}
+.link.new a{
+    color: #0e0e0e;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.third-container-content{
+    display: inline-block;
+    color: #0e0e0e;
+    font-size: 16px;
+}
+.link.new.old a{
+    color:grey;
+    font-weight: light;
+    text-transform:none;
+}
+.reel-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fifth-container-content{
+    display: inline-block;
+    color: #0e0e0e;
+    font-size: 16px;
+}
+#sixth-container{
+    background-image: url('/image/background.jpg');
+    height: 476px;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    width: 100%;
+    color: #fefe;
+    margin-bottom: 10px;
+}
+.compartment{
+    background: white;
+    width: 432px;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    height: 80px;
+}
+footer{
+    background: #4c4c4c;
+    color: #efefef;
+
+
+}
+
+
+.newSixth{
+    background-image: url('./image/background2.jpg');
+    height: 476px;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    width: 100%;
+    color: #fefe;
+    margin-bottom: 10px;
+}
